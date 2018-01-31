@@ -60,7 +60,7 @@ span.menu img{
 	font-weight: bold;
 } 
 .header-right ul li a:hover,.header-right ul li a.active{
-   color:#AB9797;
+   color:#000099;
    text-decoration:none;
    transition: all 0.3s ease;
 	-webkit-transition: all 0.3s ease;
