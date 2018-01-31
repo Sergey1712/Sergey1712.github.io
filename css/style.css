@@ -60,7 +60,7 @@ span.menu img{
 	font-weight: bold;
 } 
 .header-right ul li a:hover,.header-right ul li a.active{
-   color:#000099;
+   color:#000074;
    text-decoration:none;
    transition: all 0.3s ease;
 	-webkit-transition: all 0.3s ease;
@@ -543,13 +543,13 @@ ul.res{
 	      width:100%;
 }
 .header-right ul.res li a:hover,.header-right ul.res li a.active{
-	                  color:black;
+	                  color:rgb(22, 0, 119);
 }
 .header-right ul.res li a{
 	              display:block;
 	              width:100%;
 	              padding:5px;
-	              color:#E75C5D;
+	              color:rgb(12, 0, 119);
 }
 .header-right ul.res li{
 	                 display:block;
